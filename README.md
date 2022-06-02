@@ -1,0 +1,1 @@
+Clase en donde realizamos un CV con HTML y CSS
