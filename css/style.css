@@ -1,0 +1,40 @@
+
+body{
+    font-family: "High Tower Text"
+}
+
+header{
+    background-color: rgb(230, 230, 230)
+}
+
+.profile-img{
+    padding: 20px;
+    border-radius: 50%;
+    width: 150px;
+}
+
+h1{
+   color: rgb(0, 86, 119);
+   background-color: rgb(196, 196, 196);
+   text-align: center;
+}
+
+h3{
+    color: rgb(0, 86, 119);
+    background-color: rgb(196, 196, 196);
+}
+
+header p{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(0, 86, 119);
+}
+
+
+
+footer p{
+    text-align: center;
+    color:rgb(230, 230, 230)
+}
